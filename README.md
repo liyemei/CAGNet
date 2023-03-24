@@ -1,6 +1,5 @@
 # CAGNet
-The pytorch implementation for CAGNet in paper "Cross-Attention Guided Group Aggregation Net-work for Cropland Change Detection" 
-on IEEE SENSORS JOURNAL.
+The pytorch implementation for CAGNet in paper "Cross-Attention Guided Group Aggregation Net-work for Cropland Change Detection".
 
 # Requirements
 * Python 3.6
